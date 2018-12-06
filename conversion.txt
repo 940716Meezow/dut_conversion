@@ -1,4 +1,5 @@
 CONVERSIONS 
--Rands To Cents
+- Rands To Cents
+	rands divided by 100
 -Km to M
 -Liiter To Ml
